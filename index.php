@@ -1,4 +1,2 @@
-<?php
+<?php 
 phpinfo();
-
-hkjhnkjnjk
